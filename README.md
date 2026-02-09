@@ -52,14 +52,14 @@ The extension will appear in the Chrome toolbar.
 
 ## 📁 Project Structure
 
-password-generator-chrome-extension/
-├── icons/
-├── screenshots/
-├── index.html
-├── style.css
-├── script.js
-├── manifest.json
-└── README.md
+password-generator-chrome-extension/<br>
+├── icons/<br>
+├── screenshots/<br>
+├── index.html<br>
+├── style.css<br>
+├── script.js<br>
+├── manifest.json<br>
+└── README.md<br>
 
 
 ---
