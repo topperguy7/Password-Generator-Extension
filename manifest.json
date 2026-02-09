@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Password Generator",
+    "description": "Generate strong passwords using custom rules",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+  }
+}
