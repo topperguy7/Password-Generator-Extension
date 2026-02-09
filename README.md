@@ -66,7 +66,7 @@ password-generator-chrome-extension/<br>
 
 ## 🔒 Privacy Policy
 
-This extension does **not** collect, store, or transmit any user data.
+This extension does **not** collect, store, or transmit any user data.<br>
 All password generation happens locally in the browser.
 
 ---
