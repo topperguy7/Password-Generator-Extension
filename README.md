@@ -23,8 +23,8 @@ numbers, and symbols.
 
 ## 📸 Screenshots
 
-![Popup UI](screenshots/popup.png)
-![Generated Password](screenshots/generated-password.png)
+![Popup UI](screenshots/screenshot-1.png)
+![Generated Password](screenshots/screenshot-3.png)
 
 ---
 
